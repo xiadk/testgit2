@@ -1,3 +1,5 @@
 foo: dk
 democonfigclient:
   message: ffffff
+server:
+  port: 8882
